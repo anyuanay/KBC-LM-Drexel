@@ -1,0 +1,600 @@
+{"SubjectEntity": "Adenine", "Relation": "ChemicalCompoundElement", "Prompt": "Adenine consits of [MASK], which is a chemical element.", "ObjectEntities": ["oxygen", "hydrogen", "carbon", "nitrogen"]}
+{"SubjectEntity": "Adiponitrile", "Relation": "ChemicalCompoundElement", "Prompt": "Adiponitrile consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "oxygen", "nitrogen", "iron"]}
+{"SubjectEntity": "Alfacalcidol", "Relation": "ChemicalCompoundElement", "Prompt": "Alfacalcidol consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "hydrogen", "nitrogen"]}
+{"SubjectEntity": "Benzene", "Relation": "ChemicalCompoundElement", "Prompt": "Benzene consits of [MASK], which is a chemical element.", "ObjectEntities": ["hydrogen", "carbon", "nitrogen", "oxygen"]}
+{"SubjectEntity": "Benzylpiperazine", "Relation": "ChemicalCompoundElement", "Prompt": "Benzylpiperazine consits of [MASK], which is a chemical element.", "ObjectEntities": ["hydrogen", "carbon", "nitrogen", "oxygen", "sulfur"]}
+{"SubjectEntity": "Bilirubin", "Relation": "ChemicalCompoundElement", "Prompt": "Bilirubin consits of [MASK], which is a chemical element.", "ObjectEntities": ["iron", "calcium", "carbon", "hydrogen", "oxygen", "potassium"]}
+{"SubjectEntity": "Butyrolactone", "Relation": "ChemicalCompoundElement", "Prompt": "Butyrolactone consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "hydrogen", "sulfur", "oxygen", "iron", "nitrogen"]}
+{"SubjectEntity": "Cadaverine", "Relation": "ChemicalCompoundElement", "Prompt": "Cadaverine consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "calcium", "hydrogen"]}
+{"SubjectEntity": "Cadmium sulfide", "Relation": "ChemicalCompoundElement", "Prompt": "linguistic match", "ObjectEntities": ["Cadmium", "lead", "calcium", "mercury", "copper", "carbon", "hydrogen", "potassium", "Sulfur"]}
+{"SubjectEntity": "Caffeine", "Relation": "ChemicalCompoundElement", "Prompt": "Caffeine consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "calcium", "hydrogen"]}
+{"SubjectEntity": "Calcitriol", "Relation": "ChemicalCompoundElement", "Prompt": "Calcitriol consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "calcium", "potassium", "hydrogen"]}
+{"SubjectEntity": "Cholesterol", "Relation": "ChemicalCompoundElement", "Prompt": "Cholesterol consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "hydrogen", "iron", "oxygen"]}
+{"SubjectEntity": "Citric acid", "Relation": "ChemicalCompoundElement", "Prompt": "sub_test: Citric consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "calcium"]}
+{"SubjectEntity": "Cocaine", "Relation": "ChemicalCompoundElement", "Prompt": "Cocaine consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "calcium"]}
+{"SubjectEntity": "Corrin", "Relation": "ChemicalCompoundElement", "Prompt": "Corrin consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "iron", "calcium"]}
+{"SubjectEntity": "Cyclopentane", "Relation": "ChemicalCompoundElement", "Prompt": "Cyclopentane consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "hydrogen"]}
+{"SubjectEntity": "Cytosine", "Relation": "ChemicalCompoundElement", "Prompt": "Cytosine consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "hydrogen", "oxygen"]}
+{"SubjectEntity": "DDT", "Relation": "ChemicalCompoundElement", "Prompt": "DDT consits of [MASK], which is a chemical element.", "ObjectEntities": ["iron", "hydrogen", "mercury", "carbon"]}
+{"SubjectEntity": "Decane", "Relation": "ChemicalCompoundElement", "Prompt": "Decane consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "hydrogen", "zinc"]}
+{"SubjectEntity": "Dopamine", "Relation": "ChemicalCompoundElement", "Prompt": "Dopamine consits of [MASK], which is a chemical element.", "ObjectEntities": ["calcium", "zinc", "potassium", "hydrogen", "carbon"]}
+{"SubjectEntity": "Epinephrine", "Relation": "ChemicalCompoundElement", "Prompt": "Epinephrine consits of [MASK], which is a chemical element.", "ObjectEntities": ["hydrogen", "carbon", "oxygen", "iron"]}
+{"SubjectEntity": "Fluphenazine", "Relation": "ChemicalCompoundElement", "Prompt": "Fluphenazine consits of [MASK], which is a chemical element.", "ObjectEntities": ["hydrogen", "carbon", "nitrogen", "iron", "oxygen"]}
+{"SubjectEntity": "Formaldehyde", "Relation": "ChemicalCompoundElement", "Prompt": "Formaldehyde consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "hydrogen"]}
+{"SubjectEntity": "Fucoxanthin", "Relation": "ChemicalCompoundElement", "Prompt": "Fucoxanthin consits of [MASK], which is a chemical element.", "ObjectEntities": ["sulfur", "iron", "oxygen", "carbon", "nitrogen", "calcium"]}
+{"SubjectEntity": "Fulminic acid", "Relation": "ChemicalCompoundElement", "Prompt": "sub_test: Fulminic consits of [MASK], which is a chemical element.", "ObjectEntities": ["iron", "carbon", "hydrogen", "oxygen"]}
+{"SubjectEntity": "Fumaric acid", "Relation": "ChemicalCompoundElement", "Prompt": "sub_test: Fumaric consits of [MASK], which is a chemical element.", "ObjectEntities": ["iron", "sulfur"]}
+{"SubjectEntity": "Halothane", "Relation": "ChemicalCompoundElement", "Prompt": "Halothane consits of [MASK], which is a chemical element.", "ObjectEntities": ["hydrogen", "carbon"]}
+{"SubjectEntity": "Harmine", "Relation": "ChemicalCompoundElement", "Prompt": "Harmine consits of [MASK], which is a chemical element.", "ObjectEntities": ["hydrogen", "carbon", "iron", "oxygen"]}
+{"SubjectEntity": "Histamine", "Relation": "ChemicalCompoundElement", "Prompt": "Histamine consits of [MASK], which is a chemical element.", "ObjectEntities": ["hydrogen", "oxygen"]}
+{"SubjectEntity": "Hydrogen cyanide", "Relation": "ChemicalCompoundElement", "Prompt": "linguistic match", "ObjectEntities": ["Hydrogen", "hydrogen", "oxygen"]}
+{"SubjectEntity": "Lauryl alcohol", "Relation": "ChemicalCompoundElement", "Prompt": "sub_test: Lauryl consits of [MASK], which is a chemical element.", "ObjectEntities": ["aluminium", "hydrogen", "iron", "carbon"]}
+{"SubjectEntity": "Lithium hydride", "Relation": "ChemicalCompoundElement", "Prompt": "linguistic match", "ObjectEntities": ["Lithium", "hydrogen", "carbon", "oxygen", "Hydrogen"]}
+{"SubjectEntity": "Lithium iodide", "Relation": "ChemicalCompoundElement", "Prompt": "linguistic match", "ObjectEntities": ["Lithium", "hydrogen", "carbon", "oxygen", "Iodine"]}
+{"SubjectEntity": "Magnesium citrate", "Relation": "ChemicalCompoundElement", "Prompt": "linguistic match", "ObjectEntities": ["Magnesium", "calcium", "aluminium", "iron", "potassium", "sodium"]}
+{"SubjectEntity": "Nonane", "Relation": "ChemicalCompoundElement", "Prompt": "Nonane consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "nitrogen", "oxygen", "hydrogen"]}
+{"SubjectEntity": "Octane", "Relation": "ChemicalCompoundElement", "Prompt": "Octane consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "hydrogen", "oxygen"]}
+{"SubjectEntity": "Phenol", "Relation": "ChemicalCompoundElement", "Prompt": "Phenol consits of [MASK], which is a chemical element.", "ObjectEntities": ["hydrogen", "carbon", "oxygen", "nitrogen"]}
+{"SubjectEntity": "Propyl alcohol", "Relation": "ChemicalCompoundElement", "Prompt": "sub_test: Propyl consits of [MASK], which is a chemical element.", "ObjectEntities": ["hydrogen", "carbon", "oxygen", "sulfur"]}
+{"SubjectEntity": "Riboflavin", "Relation": "ChemicalCompoundElement", "Prompt": "Riboflavin consits of [MASK], which is a chemical element.", "ObjectEntities": ["iron", "hydrogen", "oxygen", "carbon", "calcium", "sulfur"]}
+{"SubjectEntity": "Silver iodide", "Relation": "ChemicalCompoundElement", "Prompt": "linguistic match", "ObjectEntities": ["Silver", "silver", "gold", "mercury", "iron", "lead", "copper", "Iodine"]}
+{"SubjectEntity": "Sodium bromide", "Relation": "ChemicalCompoundElement", "Prompt": "linguistic match", "ObjectEntities": ["Sodium", "sodium", "hydrogen", "potassium", "Bromine"]}
+{"SubjectEntity": "Sphingosine", "Relation": "ChemicalCompoundElement", "Prompt": "Sphingosine consits of [MASK], which is a chemical element.", "ObjectEntities": ["oxygen", "carbon", "silicon", "calcium", "sulfur", "iron", "nitrogen"]}
+{"SubjectEntity": "Stibine", "Relation": "ChemicalCompoundElement", "Prompt": "Stibine consits of [MASK], which is a chemical element.", "ObjectEntities": ["iron", "carbon", "sulfur", "hydrogen"]}
+{"SubjectEntity": "Styphnic acid", "Relation": "ChemicalCompoundElement", "Prompt": "sub_test: Styphnic consits of [MASK], which is a chemical element.", "ObjectEntities": ["sulfur", "carbon", "hydrogen", "silicon", "iron"]}
+{"SubjectEntity": "Styrene", "Relation": "ChemicalCompoundElement", "Prompt": "Styrene consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "sulfur", "hydrogen"]}
+{"SubjectEntity": "Sulfur dioxide", "Relation": "ChemicalCompoundElement", "Prompt": "linguistic match", "ObjectEntities": ["Sulfur", "sulfur", "iron", "hydrogen"]}
+{"SubjectEntity": "Tetradecane", "Relation": "ChemicalCompoundElement", "Prompt": "Tetradecane consits of [MASK], which is a chemical element.", "ObjectEntities": ["carbon", "hydrogen", "oxygen"]}
+{"SubjectEntity": "Toluene", "Relation": "ChemicalCompoundElement", "Prompt": "Toluene consits of [MASK], which is a chemical element.", "ObjectEntities": ["sulfur", "carbon", "hydrogen", "nitrogen", "tin", "oxygen"]}
+{"SubjectEntity": "Uric acid", "Relation": "ChemicalCompoundElement", "Prompt": "sub_test: Uric consits of [MASK], which is a chemical element.", "ObjectEntities": ["uranium", "iron", "silicon"]}
+{"SubjectEntity": "Zirconium dioxide", "Relation": "ChemicalCompoundElement", "Prompt": "linguistic match", "ObjectEntities": ["Zirconium", "carbon", "hydrogen", "oxygen", "silicon"]}
+{"SubjectEntity": "Abdul Rehman Malik", "Relation": "PersonCauseOfDeath", "Prompt": "Abdul Rehman Malik died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Alan Garc\u00eda", "Relation": "PersonCauseOfDeath", "Prompt": "Alan Garc\u00eda died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Bernie Sanders", "Relation": "PersonCauseOfDeath", "Prompt": "Bernie Sanders died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Beyonc\u00e9", "Relation": "PersonCauseOfDeath", "Prompt": "Beyonc\u00e9 died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Bill Clinton", "Relation": "PersonCauseOfDeath", "Prompt": "Bill Clinton died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Carlos Ruiz Zaf\u00f3n", "Relation": "PersonCauseOfDeath", "Prompt": "Carlos Ruiz Zaf\u00f3n died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Cristiano Ronaldo", "Relation": "PersonCauseOfDeath", "Prompt": "Cristiano Ronaldo died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Dean Martin", "Relation": "PersonCauseOfDeath", "Prompt": "Dean Martin died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Drake", "Relation": "PersonCauseOfDeath", "Prompt": "Drake died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Dwayne Johnson", "Relation": "PersonCauseOfDeath", "Prompt": "Dwayne Johnson died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Eddie van Halen", "Relation": "PersonCauseOfDeath", "Prompt": "Eddie van Halen died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Enrique Pe\u00f1a Nieto", "Relation": "PersonCauseOfDeath", "Prompt": "Enrique Pe\u00f1a Nieto died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Gustavo Cerati", "Relation": "PersonCauseOfDeath", "Prompt": "Gustavo Cerati died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Justin Bieber", "Relation": "PersonCauseOfDeath", "Prompt": "Justin Bieber died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Justin Timberlake", "Relation": "PersonCauseOfDeath", "Prompt": "Justin Timberlake died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Justin Trudeau", "Relation": "PersonCauseOfDeath", "Prompt": "Justin Trudeau died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Katy Perry", "Relation": "PersonCauseOfDeath", "Prompt": "Katy Perry died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Kobe Bryant", "Relation": "PersonCauseOfDeath", "Prompt": "Kobe Bryant died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Kylian Mbapp\u00e9", "Relation": "PersonCauseOfDeath", "Prompt": "Kylian Mbapp\u00e9 died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "LeBron James", "Relation": "PersonCauseOfDeath", "Prompt": "LeBron James died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Leonardo DiCaprio", "Relation": "PersonCauseOfDeath", "Prompt": "Leonardo DiCaprio died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Lionel Messi", "Relation": "PersonCauseOfDeath", "Prompt": "Lionel Messi died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Madonna", "Relation": "PersonCauseOfDeath", "Prompt": "Madonna died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Mike Enzi", "Relation": "PersonCauseOfDeath", "Prompt": "Mike Enzi died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Oprah Winfrey", "Relation": "PersonCauseOfDeath", "Prompt": "Oprah Winfrey died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Patrice O'Neal", "Relation": "PersonCauseOfDeath", "Prompt": "Patrice O'Neal died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Peter R. de Vries", "Relation": "PersonCauseOfDeath", "Prompt": "Peter R. de Vries died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Pope Francis", "Relation": "PersonCauseOfDeath", "Prompt": "Pope Francis died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Ravi Zacharias", "Relation": "PersonCauseOfDeath", "Prompt": "Ravi Zacharias died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Volodymyr Zelenskyy", "Relation": "PersonCauseOfDeath", "Prompt": "Volodymyr Zelenskyy died due to [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Alan Guth", "Relation": "PersonCauseOfDeath", "Prompt": "Alan Guth has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Amitabh Bachchan", "Relation": "PersonCauseOfDeath", "Prompt": "Amitabh Bachchan has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Anthony Bourdain", "Relation": "PersonCauseOfDeath", "Prompt": "Anthony Bourdain has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Arun Jaitley", "Relation": "PersonCauseOfDeath", "Prompt": "Arun Jaitley has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Betty White", "Relation": "PersonCauseOfDeath", "Prompt": "Betty White has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Caroline Flack", "Relation": "PersonCauseOfDeath", "Prompt": "Caroline Flack has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Elvis Presley", "Relation": "PersonCauseOfDeath", "Prompt": "Elvis Presley has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Joan Rivers", "Relation": "PersonCauseOfDeath", "Prompt": "Joan Rivers has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "John Coltrane", "Relation": "PersonCauseOfDeath", "Prompt": "John Coltrane has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Kim Jong-un", "Relation": "PersonCauseOfDeath", "Prompt": "Kim Jong-un has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Mark Zuckerberg", "Relation": "PersonCauseOfDeath", "Prompt": "Mark Zuckerberg has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Nicky Hayden", "Relation": "PersonCauseOfDeath", "Prompt": "Nicky Hayden has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Noam Chomsky", "Relation": "PersonCauseOfDeath", "Prompt": "Noam Chomsky has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Pat Summitt", "Relation": "PersonCauseOfDeath", "Prompt": "Pat Summitt has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Paul Bocuse", "Relation": "PersonCauseOfDeath", "Prompt": "Paul Bocuse has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Ren\u00e9 Auberjonois", "Relation": "PersonCauseOfDeath", "Prompt": "Ren\u00e9 Auberjonois has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Rituparno Ghosh", "Relation": "PersonCauseOfDeath", "Prompt": "Rituparno Ghosh has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Terry Pratchett", "Relation": "PersonCauseOfDeath", "Prompt": "Terry Pratchett has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Vladimir Putin", "Relation": "PersonCauseOfDeath", "Prompt": "Vladimir Putin has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Vladimir Zhirinovsky", "Relation": "PersonCauseOfDeath", "Prompt": "Vladimir Zhirinovsky has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Adamson", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Adamson is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Arduino", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Arduino is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Avtovaz", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Avtovaz is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Brasier", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Brasier is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Briggs Automotive Company", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Briggs Automotive Company is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Bugatti", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Bugatti is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Carbodies", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Carbodies is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Citro\u00ebn", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Citro\u00ebn is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Danvignes", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Danvignes is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Donkervoort", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Donkervoort is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Espenlaub", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Espenlaub is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Fabryka Samochod\u00f3w Ci\u0119\u017carowych", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Fabryka Samochod\u00f3w Ci\u0119\u017carowych is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Fabryka Samochod\u00f3w Osobowych", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Fabryka Samochod\u00f3w Osobowych is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "General Motors", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of General Motors is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Google", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Google is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Hermes-Simplex", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Hermes-Simplex is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Honda", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Honda is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Horch", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Horch is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Hyundai", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Hyundai is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Intermeccanica", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Intermeccanica is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Jaguar Cars", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Jaguar Cars is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "LG Corporation", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of LG Corporation is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Laurin & Klement", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Laurin & Klement is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Ligier", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Ligier is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "March Engineering", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of March Engineering is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Maserati", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Maserati is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Mathis", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Mathis is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Matra", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Matra is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Mazda", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Mazda is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Mitsubishi Group", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Mitsubishi Group is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Opel", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Opel is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Packard", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Packard is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Pierce-Arrow", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Pierce-Arrow is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Renault", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Renault is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Richard-Brasier", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Richard-Brasier is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Riga Autobus Factory", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Riga Autobus Factory is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Thyssenkrupp AG", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Thyssenkrupp AG is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Tim Group", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Tim Group is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Toyota", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Toyota is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Toyota Group", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Toyota Group is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Vauxhall", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Vauxhall is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Vodafone", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Vodafone is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Volkswagen Group", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Volkswagen Group is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Wanderer", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Wanderer is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Wikov", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Wikov is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Yahoo", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Yahoo is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "ZSD nysa", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of ZSD nysa is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Zastava Automobiles", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Zastava Automobiles is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Zena Fabbrica Automobili", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of Zena Fabbrica Automobili is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "\u0160koda Auto", "Relation": "CompanyParentOrganization", "Prompt": "The parent organization of \u0160koda Auto is [MASK] company.", "ObjectEntities": []}
+{"SubjectEntity": "Algeria", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Algeria are neighboring country. They share the border.", "ObjectEntities": ["Morocco", "Tunisia", "Libya", "Morocco", "Tunisia", "Libya"]}
+{"SubjectEntity": "Antigua and Barbuda", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Antigua and Barbuda are neighboring country. They share the border.", "ObjectEntities": ["Barbados", "Jamaica", "Guyana", "Belize", "Barbados", "Jamaica", "Guyana", "Belize"]}
+{"SubjectEntity": "Bahamas", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Bahamas are neighboring country. They share the border.", "ObjectEntities": ["Bahamas", "Cuba", "Jamaica", "Barbados", "Bermuda", "Bahamas", "Cuba", "Jamaica", "Barbados", "Bermuda"]}
+{"SubjectEntity": "Belgium", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Belgium are neighboring country. They share the border.", "ObjectEntities": ["France", "Netherlands", "Germany", "Luxembourg", "France", "Netherlands", "Germany", "Luxembourg"]}
+{"SubjectEntity": "Botswana", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Botswana are neighboring country. They share the border.", "ObjectEntities": ["Namibia", "Zimbabwe", "Zambia", "Namibia", "Zimbabwe", "Zambia"]}
+{"SubjectEntity": "Brunei", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Brunei are neighboring country. They share the border.", "ObjectEntities": ["Indonesia", "Malaysia", "Indonesia", "Malaysia"]}
+{"SubjectEntity": "Burkina Faso", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Burkina Faso are neighboring country. They share the border.", "ObjectEntities": ["Mali", "Niger", "Ghana", "Benin", "Chad", "Guinea", "Senegal", "Mali", "Niger", "Ghana", "Benin", "Chad", "Guinea", "Senegal"]}
+{"SubjectEntity": "Czech Republic", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Czech Republic are neighboring country. They share the border.", "ObjectEntities": ["Slovakia", "Poland", "Germany", "Slovakia", "Poland", "Germany"]}
+{"SubjectEntity": "Eswatini", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Eswatini are neighboring country. They share the border.", "ObjectEntities": ["Goa", "Assam", "Bhutan", "Goa", "Assam", "Bhutan"]}
+{"SubjectEntity": "Federated States of Micronesia", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Federated States of Micronesia are neighboring country. They share the border.", "ObjectEntities": ["Guam", "Indonesia", "Japan", "Australia", "Russia", "Myanmar", "Guam", "Indonesia", "Japan", "Australia", "Russia", "Myanmar"]}
+{"SubjectEntity": "Guatemala", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Guatemala are neighboring country. They share the border.", "ObjectEntities": ["Belize", "Honduras", "Mexico", "Belize", "Honduras", "Mexico"]}
+{"SubjectEntity": "Guinea-Bissau", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Guinea-Bissau are neighboring country. They share the border.", "ObjectEntities": ["Guinea", "Senegal", "Angola", "Mali", "Mozambique", "Guinea", "Senegal", "Angola", "Mali", "Mozambique"]}
+{"SubjectEntity": "Haiti", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Haiti are neighboring country. They share the border.", "ObjectEntities": ["Cuba", "Haiti", "Panama", "Nicaragua", "Venezuela", "Cuba", "Haiti", "Panama", "Nicaragua", "Venezuela"]}
+{"SubjectEntity": "Hungary", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Hungary are neighboring country. They share the border.", "ObjectEntities": ["Slovakia", "Romania", "Croatia", "Poland", "Austria", "Serbia", "Slovakia", "Romania", "Croatia", "Poland", "Austria", "Serbia"]}
+{"SubjectEntity": "Kazakhstan", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Kazakhstan are neighboring country. They share the border.", "ObjectEntities": ["Russia", "Kyrgyzstan", "Uzbekistan", "China", "Russia", "Kyrgyzstan", "Uzbekistan", "China"]}
+{"SubjectEntity": "Kiribati", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Kiribati are neighboring country. They share the border.", "ObjectEntities": ["Fiji", "Japan", "Indonesia", "Guam", "Mauritius", "Tanzania", "Australia", "Fiji", "Japan", "Indonesia", "Guam", "Mauritius", "Tanzania", "Australia"]}
+{"SubjectEntity": "Kuwait", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Kuwait are neighboring country. They share the border.", "ObjectEntities": ["Iraq", "Oman", "Qatar", "Bahrain", "Iran", "Iraq", "Oman", "Qatar", "Bahrain", "Iran"]}
+{"SubjectEntity": "Laos", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Laos are neighboring country. They share the border.", "ObjectEntities": ["Cambodia", "Vietnam", "Thailand", "Myanmar", "China", "Cambodia", "Vietnam", "Thailand", "Myanmar", "China"]}
+{"SubjectEntity": "Latvia", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Latvia are neighboring country. They share the border.", "ObjectEntities": ["Estonia", "Lithuania", "Belarus", "Estonia", "Lithuania", "Belarus"]}
+{"SubjectEntity": "Liberia", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Liberia are neighboring country. They share the border.", "ObjectEntities": ["Guinea", "Ghana", "Nigeria", "Chad", "Guinea", "Ghana", "Nigeria", "Chad"]}
+{"SubjectEntity": "Lithuania", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Lithuania are neighboring country. They share the border.", "ObjectEntities": ["Latvia", "Poland", "Estonia", "Belarus", "Latvia", "Poland", "Estonia", "Belarus"]}
+{"SubjectEntity": "Maldives", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Maldives are neighboring country. They share the border.", "ObjectEntities": ["India", "Bangladesh", "Myanmar", "Yemen", "Pakistan", "India", "Bangladesh", "Myanmar", "Yemen", "Pakistan"]}
+{"SubjectEntity": "Malta", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Malta are neighboring country. They share the border.", "ObjectEntities": ["Greece", "Italy", "Albania", "Ireland", "Cyprus", "Serbia", "Greece", "Italy", "Albania", "Ireland", "Cyprus", "Serbia"]}
+{"SubjectEntity": "Mauritania", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Mauritania are neighboring country. They share the border.", "ObjectEntities": ["Senegal", "Mali", "Guinea", "Niger", "Algeria", "Morocco", "Senegal", "Mali", "Guinea", "Niger", "Algeria", "Morocco"]}
+{"SubjectEntity": "Mexico", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Mexico are neighboring country. They share the border.", "ObjectEntities": ["Guatemala", "Canada", "Colombia", "Texas", "Guatemala", "Canada", "Colombia", "Texas"]}
+{"SubjectEntity": "New Zealand", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and New Zealand are neighboring country. They share the border.", "ObjectEntities": ["Australia", "Canada", "Australia", "Canada"]}
+{"SubjectEntity": "Nigeria", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Nigeria are neighboring country. They share the border.", "ObjectEntities": ["Niger", "Cameroon", "Ghana", "Benin", "Niger", "Cameroon", "Ghana", "Benin"]}
+{"SubjectEntity": "Panama", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Panama are neighboring country. They share the border.", "ObjectEntities": ["Colombia", "Nicaragua", "Colombia", "Nicaragua"]}
+{"SubjectEntity": "Paraguay", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Paraguay are neighboring country. They share the border.", "ObjectEntities": ["Brazil", "Argentina", "Bolivia", "Brazil", "Argentina", "Bolivia"]}
+{"SubjectEntity": "Peru", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Peru are neighboring country. They share the border.", "ObjectEntities": ["Ecuador", "Bolivia", "Chile", "Colombia", "Brazil", "Ecuador", "Bolivia", "Chile", "Colombia", "Brazil"]}
+{"SubjectEntity": "Republic of the Congo", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Republic of the Congo are neighboring country. They share the border.", "ObjectEntities": ["Gabon", "Cameroon", "Angola", "Chad", "Congo", "Uganda", "Gabon", "Cameroon", "Angola", "Chad", "Congo", "Uganda"]}
+{"SubjectEntity": "Saint Kitts and Nevis", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Saint Kitts and Nevis are neighboring country. They share the border.", "ObjectEntities": ["Jamaica", "Barbados", "Guyana", "Haiti", "Belize", "Jamaica", "Barbados", "Guyana", "Haiti", "Belize"]}
+{"SubjectEntity": "Slovakia", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Slovakia are neighboring country. They share the border.", "ObjectEntities": ["Hungary", "Poland", "Romania", "Austria", "Hungary", "Poland", "Romania", "Austria"]}
+{"SubjectEntity": "Slovenia", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Slovenia are neighboring country. They share the border.", "ObjectEntities": ["Croatia", "Austria", "Italy", "Croatia", "Austria", "Italy"]}
+{"SubjectEntity": "Solomon Islands", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Solomon Islands are neighboring country. They share the border.", "ObjectEntities": ["Fiji", "Indonesia", "Tonga", "Australia", "Fiji", "Indonesia", "Tonga", "Australia"]}
+{"SubjectEntity": "South Africa", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and South Africa are neighboring country. They share the border.", "ObjectEntities": ["Namibia", "Botswana", "Zimbabwe", "Namibia", "Botswana", "Zimbabwe"]}
+{"SubjectEntity": "South Korea", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and South Korea are neighboring country. They share the border.", "ObjectEntities": ["North", "Japan", "China", "North", "Japan", "China"]}
+{"SubjectEntity": "Spain", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Spain are neighboring country. They share the border.", "ObjectEntities": ["France", "Portugal", "Italy", "France", "Portugal", "Italy"]}
+{"SubjectEntity": "Sudan", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Sudan are neighboring country. They share the border.", "ObjectEntities": ["Chad", "Egypt", "Ethiopia", "Uganda", "Nigeria", "Kenya", "Chad", "Egypt", "Ethiopia", "Uganda", "Nigeria", "Kenya"]}
+{"SubjectEntity": "Sweden", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Sweden are neighboring country. They share the border.", "ObjectEntities": ["Norway", "Finland", "Denmark", "Norway", "Finland", "Denmark"]}
+{"SubjectEntity": "Syria", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Syria are neighboring country. They share the border.", "ObjectEntities": ["Turkey", "Lebanon", "Israel", "Iraq", "Jordan", "Turkey", "Lebanon", "Israel", "Iraq", "Jordan"]}
+{"SubjectEntity": "Tajikistan", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Tajikistan are neighboring country. They share the border.", "ObjectEntities": ["Kyrgyzstan", "Afghanistan", "Uzbekistan", "Kazakhstan", "Iran", "Kyrgyzstan", "Afghanistan", "Uzbekistan", "Kazakhstan", "Iran"]}
+{"SubjectEntity": "Tanzania", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Tanzania are neighboring country. They share the border.", "ObjectEntities": ["Kenya", "Uganda", "Zambia", "Kenya", "Uganda", "Zambia"]}
+{"SubjectEntity": "Trinidad and Tobago", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Trinidad and Tobago are neighboring country. They share the border.", "ObjectEntities": ["Guyana", "Venezuela", "Barbados", "Jamaica", "Colombia", "Guyana", "Venezuela", "Barbados", "Jamaica", "Colombia"]}
+{"SubjectEntity": "Tunisia", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Tunisia are neighboring country. They share the border.", "ObjectEntities": ["Algeria", "Libya", "Morocco", "Algeria", "Libya", "Morocco"]}
+{"SubjectEntity": "Turkmenistan", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Turkmenistan are neighboring country. They share the border.", "ObjectEntities": ["Uzbekistan", "Tajikistan", "Kazakhstan", "Kyrgyzstan", "Iran", "Uzbekistan", "Tajikistan", "Kazakhstan", "Kyrgyzstan", "Iran"]}
+{"SubjectEntity": "Uruguay", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Uruguay are neighboring country. They share the border.", "ObjectEntities": ["Argentina", "Brazil", "Paraguay", "Argentina", "Brazil", "Paraguay"]}
+{"SubjectEntity": "Vanuatu", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Vanuatu are neighboring country. They share the border.", "ObjectEntities": ["Fiji", "Fiji"]}
+{"SubjectEntity": "Vatican City", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Vatican City are neighboring country. They share the border.", "ObjectEntities": ["Italy", "Rome", "France", "Italy", "Rome", "France"]}
+{"SubjectEntity": "Yemen", "Relation": "CountryBordersWithCountry", "Prompt": "[MASK] and Yemen are neighboring country. They share the border.", "ObjectEntities": ["Oman", "Iran", "Pakistan", "Libya", "Iraq", "Egypt", "Oman", "Iran", "Pakistan", "Libya", "Iraq", "Egypt"]}
+{"SubjectEntity": "Algeria", "Relation": "CountryOfficialLanguage", "Prompt": "Algeria's official language is [MASK].", "ObjectEntities": ["French", "Arabic", "French", "Arabic"]}
+{"SubjectEntity": "Barbados", "Relation": "CountryOfficialLanguage", "Prompt": "Barbados's official language is [MASK].", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Belgium", "Relation": "CountryOfficialLanguage", "Prompt": "Belgium's official language is [MASK].", "ObjectEntities": ["French", "Dutch", "French", "Dutch"]}
+{"SubjectEntity": "Belize", "Relation": "CountryOfficialLanguage", "Prompt": "Belize's official language is [MASK].", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Bolivia", "Relation": "CountryOfficialLanguage", "Prompt": "Bolivia's official language is [MASK].", "ObjectEntities": ["Spanish", "Spanish"]}
+{"SubjectEntity": "Brazil", "Relation": "CountryOfficialLanguage", "Prompt": "Brazil's official language is [MASK].", "ObjectEntities": ["Portuguese", "Portuguese"]}
+{"SubjectEntity": "Cape Verde", "Relation": "CountryOfficialLanguage", "Prompt": "Cape Verde's official language is [MASK].", "ObjectEntities": ["Portuguese", "Portuguese"]}
+{"SubjectEntity": "Chad", "Relation": "CountryOfficialLanguage", "Prompt": "Chad's official language is [MASK].", "ObjectEntities": ["Arabic", "French", "Arabic", "French"]}
+{"SubjectEntity": "Ecuador", "Relation": "CountryOfficialLanguage", "Prompt": "Ecuador's official language is [MASK].", "ObjectEntities": ["Spanish", "Spanish"]}
+{"SubjectEntity": "Federated States of Micronesia", "Relation": "CountryOfficialLanguage", "Prompt": "Federated States of Micronesia's official language is [MASK].", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Gabon", "Relation": "CountryOfficialLanguage", "Prompt": "Gabon's official language is [MASK].", "ObjectEntities": ["French", "French"]}
+{"SubjectEntity": "Germany", "Relation": "CountryOfficialLanguage", "Prompt": "Germany's official language is [MASK].", "ObjectEntities": ["German", "German"]}
+{"SubjectEntity": "Guatemala", "Relation": "CountryOfficialLanguage", "Prompt": "Guatemala's official language is [MASK].", "ObjectEntities": ["Spanish", "Spanish"]}
+{"SubjectEntity": "Haiti", "Relation": "CountryOfficialLanguage", "Prompt": "Haiti's official language is [MASK].", "ObjectEntities": ["French", "French"]}
+{"SubjectEntity": "Hungary", "Relation": "CountryOfficialLanguage", "Prompt": "Hungary's official language is [MASK].", "ObjectEntities": ["Hungarian", "Hungarian"]}
+{"SubjectEntity": "Iran", "Relation": "CountryOfficialLanguage", "Prompt": "Iran's official language is [MASK].", "ObjectEntities": ["Persian", "Persian"]}
+{"SubjectEntity": "Ivory Coast", "Relation": "CountryOfficialLanguage", "Prompt": "Ivory Coast's official language is [MASK].", "ObjectEntities": ["French", "French"]}
+{"SubjectEntity": "Japan", "Relation": "CountryOfficialLanguage", "Prompt": "Japan's official language is [MASK].", "ObjectEntities": ["Japanese", "Japanese"]}
+{"SubjectEntity": "Kenya", "Relation": "CountryOfficialLanguage", "Prompt": "Kenya's official language is [MASK].", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Kingdom of Africa", "Relation": "CountryOfficialLanguage", "Prompt": "Kingdom of Africa's official language is [MASK].", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Kuwait", "Relation": "CountryOfficialLanguage", "Prompt": "Kuwait's official language is [MASK].", "ObjectEntities": ["Arabic", "Arabic"]}
+{"SubjectEntity": "Kyrgyzstan", "Relation": "CountryOfficialLanguage", "Prompt": "Kyrgyzstan's official language is [MASK].", "ObjectEntities": ["Russian", "Russian"]}
+{"SubjectEntity": "Laos", "Relation": "CountryOfficialLanguage", "Prompt": "Laos's official language is [MASK].", "ObjectEntities": ["Lao", "Lao"]}
+{"SubjectEntity": "Lebanon", "Relation": "CountryOfficialLanguage", "Prompt": "Lebanon's official language is [MASK].", "ObjectEntities": ["Arabic", "French", "Arabic", "French"]}
+{"SubjectEntity": "Liberia", "Relation": "CountryOfficialLanguage", "Prompt": "Liberia's official language is [MASK].", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Lithuania", "Relation": "CountryOfficialLanguage", "Prompt": "Lithuania's official language is [MASK].", "ObjectEntities": ["Lithuanian", "Lithuanian"]}
+{"SubjectEntity": "Luxembourg", "Relation": "CountryOfficialLanguage", "Prompt": "Luxembourg's official language is [MASK].", "ObjectEntities": ["French", "French"]}
+{"SubjectEntity": "Malawi", "Relation": "CountryOfficialLanguage", "Prompt": "Malawi's official language is [MASK].", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Marshall Islands", "Relation": "CountryOfficialLanguage", "Prompt": "Marshall Islands's official language is [MASK].", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Mauritius", "Relation": "CountryOfficialLanguage", "Prompt": "Mauritius's official language is [MASK].", "ObjectEntities": ["English", "French", "English", "French"]}
+{"SubjectEntity": "Monaco", "Relation": "CountryOfficialLanguage", "Prompt": "Monaco's official language is [MASK].", "ObjectEntities": ["French", "French"]}
+{"SubjectEntity": "Montenegro", "Relation": "CountryOfficialLanguage", "Prompt": "Montenegro's official language is [MASK].", "ObjectEntities": ["Montenegrin", "Serbian", "Montenegrin", "Serbian"]}
+{"SubjectEntity": "Morocco", "Relation": "CountryOfficialLanguage", "Prompt": "Morocco's official language is [MASK].", "ObjectEntities": ["Arabic", "Arabic"]}
+{"SubjectEntity": "Nigeria", "Relation": "CountryOfficialLanguage", "Prompt": "Nigeria's official language is [MASK].", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Oman", "Relation": "CountryOfficialLanguage", "Prompt": "Oman's official language is [MASK].", "ObjectEntities": ["Arabic", "Arabic"]}
+{"SubjectEntity": "Republic of the Congo", "Relation": "CountryOfficialLanguage", "Prompt": "Republic of the Congo's official language is [MASK].", "ObjectEntities": ["French", "French"]}
+{"SubjectEntity": "Samoa", "Relation": "CountryOfficialLanguage", "Prompt": "Samoa's official language is [MASK].", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Solomon Islands", "Relation": "CountryOfficialLanguage", "Prompt": "Solomon Islands's official language is [MASK].", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Somalia", "Relation": "CountryOfficialLanguage", "Prompt": "Somalia's official language is [MASK].", "ObjectEntities": ["Somali", "Somali"]}
+{"SubjectEntity": "South Africa", "Relation": "CountryOfficialLanguage", "Prompt": "South Africa's official language is [MASK].", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Spain", "Relation": "CountryOfficialLanguage", "Prompt": "Spain's official language is [MASK].", "ObjectEntities": ["Spanish", "Spanish"]}
+{"SubjectEntity": "Sudan", "Relation": "CountryOfficialLanguage", "Prompt": "Sudan's official language is [MASK].", "ObjectEntities": ["Arabic", "Arabic"]}
+{"SubjectEntity": "Sweden", "Relation": "CountryOfficialLanguage", "Prompt": "Sweden's official language is [MASK].", "ObjectEntities": ["Swedish", "Swedish"]}
+{"SubjectEntity": "Switzerland", "Relation": "CountryOfficialLanguage", "Prompt": "Switzerland's official language is [MASK].", "ObjectEntities": ["German", "German"]}
+{"SubjectEntity": "Syria", "Relation": "CountryOfficialLanguage", "Prompt": "Syria's official language is [MASK].", "ObjectEntities": ["Arabic", "Arabic"]}
+{"SubjectEntity": "Tonga", "Relation": "CountryOfficialLanguage", "Prompt": "Tonga's official language is [MASK].", "ObjectEntities": ["English", "Tonga", "English", "Tonga"]}
+{"SubjectEntity": "Turkey", "Relation": "CountryOfficialLanguage", "Prompt": "Turkey's official language is [MASK].", "ObjectEntities": ["Turkish", "Turkish"]}
+{"SubjectEntity": "Uruguay", "Relation": "CountryOfficialLanguage", "Prompt": "Uruguay's official language is [MASK].", "ObjectEntities": ["Spanish", "Spanish"]}
+{"SubjectEntity": "Vatican City", "Relation": "CountryOfficialLanguage", "Prompt": "Vatican City's official language is [MASK].", "ObjectEntities": ["Italian", "Italian"]}
+{"SubjectEntity": "Vietnam", "Relation": "CountryOfficialLanguage", "Prompt": "Vietnam's official language is [MASK].", "ObjectEntities": ["Vietnamese", "Vietnamese"]}
+{"SubjectEntity": "Abruzzo", "Relation": "StateSharesBorderState", "Prompt": "Abruzzo and [MASK] are neighboring states in Italy.", "ObjectEntities": ["Tuscany", "Piedmont", "Sicily", "Sardinia"]}
+{"SubjectEntity": "Alabama", "Relation": "StateSharesBorderState", "Prompt": "Alabama and [MASK] are neighboring states in America.", "ObjectEntities": ["Mississippi", "Georgia", "Tennessee", "Florida"]}
+{"SubjectEntity": "Arizona", "Relation": "StateSharesBorderState", "Prompt": "Arizona and [MASK] are neighboring states in America.", "ObjectEntities": ["California", "Texas", "Utah", "Nevada"]}
+{"SubjectEntity": "Ays\u00e9n Region", "Relation": "StateSharesBorderState", "Prompt": "Ays\u00e9n Region and [MASK] are neighboring states in Venezuela.", "ObjectEntities": ["Miranda", "Lara", "State"]}
+{"SubjectEntity": "Calabria", "Relation": "StateSharesBorderState", "Prompt": "Calabria and [MASK] are neighboring states in Italy.", "ObjectEntities": ["Sardinia", "Tuscany", "Sicily"]}
+{"SubjectEntity": "Canton of Bern", "Relation": "StateSharesBorderState", "Prompt": "Canton of Bern and [MASK] are neighboring states in Switzerland.", "ObjectEntities": ["Geneva", "Z\u00fcrich", "Zurich"]}
+{"SubjectEntity": "Canton of Jura", "Relation": "StateSharesBorderState", "Prompt": "Canton of Jura and [MASK] are neighboring states in Switzerland.", "ObjectEntities": ["Geneva", "Savoy", "Bern", "Burgundy"]}
+{"SubjectEntity": "Canton of Lucerne", "Relation": "StateSharesBorderState", "Prompt": "Canton of Lucerne and [MASK] are neighboring states in Switzerland.", "ObjectEntities": ["Geneva", "Bern", "Zurich", "Z\u00fcrich", "Savoy"]}
+{"SubjectEntity": "Canton of Solothurn", "Relation": "StateSharesBorderState", "Prompt": "Canton of Solothurn and [MASK] are neighboring states in Switzerland.", "ObjectEntities": ["Geneva", "Zurich", "Bern", "Z\u00fcrich", "Basel"]}
+{"SubjectEntity": "Canton of Valais", "Relation": "StateSharesBorderState", "Prompt": "Canton of Valais and [MASK] are neighboring states in Switzerland.", "ObjectEntities": ["Geneva", "Bern", "Savoy"]}
+{"SubjectEntity": "Carinthia", "Relation": "StateSharesBorderState", "Prompt": "Carinthia and [MASK] are neighboring states in Austria.", "ObjectEntities": ["Salzburg", "Slovenia"]}
+{"SubjectEntity": "Cerro Largo Department", "Relation": "StateSharesBorderState", "Prompt": "Cerro Largo Department and [MASK] are neighboring states in Uruguay.", "ObjectEntities": ["Department"]}
+{"SubjectEntity": "Colonia Department", "Relation": "StateSharesBorderState", "Prompt": "Colonia Department and [MASK] are neighboring states in Colombia.", "ObjectEntities": ["Department", "Magdalena", "Bogot\u00e1", "Colombia"]}
+{"SubjectEntity": "Community of Madrid", "Relation": "StateSharesBorderState", "Prompt": "Community of Madrid and [MASK] are neighboring states in Spain.", "ObjectEntities": ["Catalonia", "Galicia", "Valencia", "Navarre"]}
+{"SubjectEntity": "Delaware", "Relation": "StateSharesBorderState", "Prompt": "Delaware and [MASK] are neighboring states in America.", "ObjectEntities": ["Maryland", "Pennsylvania"]}
+{"SubjectEntity": "Emilia-Romagna", "Relation": "StateSharesBorderState", "Prompt": "Emilia-Romagna and [MASK] are neighboring states in Italy.", "ObjectEntities": ["Tuscany", "Piedmont"]}
+{"SubjectEntity": "Eschen", "Relation": "StateSharesBorderState", "Prompt": "Eschen and [MASK] are neighboring states in Austria.", "ObjectEntities": ["Salzburg"]}
+{"SubjectEntity": "Finland Proper", "Relation": "StateSharesBorderState", "Prompt": "Finland Proper and [MASK] are neighboring states in Finland.", "ObjectEntities": ["South", "proper"]}
+{"SubjectEntity": "Flevoland", "Relation": "StateSharesBorderState", "Prompt": "Flevoland and [MASK] are neighboring states in Belgium.", "ObjectEntities": ["Flanders", "Luxembourg", "Namibia", "Antwerp", "Holland"]}
+{"SubjectEntity": "Friesland", "Relation": "StateSharesBorderState", "Prompt": "Friesland and [MASK] are neighboring states in Netherlands.", "ObjectEntities": ["Utrecht", "Flanders", "Holland"]}
+{"SubjectEntity": "Groningen", "Relation": "StateSharesBorderState", "Prompt": "Groningen and [MASK] are neighboring states in Netherlands.", "ObjectEntities": ["Utrecht", "Rotterdam"]}
+{"SubjectEntity": "Idaho", "Relation": "StateSharesBorderState", "Prompt": "Idaho and [MASK] are neighboring states in America.", "ObjectEntities": ["Montana", "Wyoming", "Washington", "Oregon"]}
+{"SubjectEntity": "Illinois", "Relation": "StateSharesBorderState", "Prompt": "Illinois and [MASK] are neighboring states in America.", "ObjectEntities": ["Wisconsin", "Indiana", "Iowa", "Missouri", "Michigan"]}
+{"SubjectEntity": "Indiana", "Relation": "StateSharesBorderState", "Prompt": "Indiana and [MASK] are neighboring states in America.", "ObjectEntities": ["Illinois", "Ohio", "Michigan", "Wisconsin", "Kentucky"]}
+{"SubjectEntity": "Kentucky", "Relation": "StateSharesBorderState", "Prompt": "Kentucky and [MASK] are neighboring states in America.", "ObjectEntities": ["Tennessee", "Indiana", "Ohio", "Missouri", "Virginia", "Illinois"]}
+{"SubjectEntity": "Kymenlaakso", "Relation": "StateSharesBorderState", "Prompt": "Kymenlaakso and [MASK] are neighboring states in Finland.", "ObjectEntities": ["Nokia", "Helsinki"]}
+{"SubjectEntity": "Limburg", "Relation": "StateSharesBorderState", "Prompt": "Limburg and [MASK] are neighboring states in Belgium.", "ObjectEntities": ["Li\u00e8ge", "Flanders", "Luxembourg", "Antwerp"]}
+{"SubjectEntity": "Lublin Voivodeship", "Relation": "StateSharesBorderState", "Prompt": "Lublin Voivodeship and [MASK] are neighboring states in Poland.", "ObjectEntities": ["Belarus", "Ukraine", "Lithuania", "Lublin", "Slovakia"]}
+{"SubjectEntity": "Maryland", "Relation": "StateSharesBorderState", "Prompt": "Maryland and [MASK] are neighboring states in America.", "ObjectEntities": ["Virginia", "Delaware", "Pennsylvania"]}
+{"SubjectEntity": "Maule Region", "Relation": "StateSharesBorderState", "Prompt": "Maule Region and [MASK] are neighboring states in Chile.", "ObjectEntities": ["Mendoza", "Region", "Sur"]}
+{"SubjectEntity": "Mississippi", "Relation": "StateSharesBorderState", "Prompt": "Mississippi and [MASK] are neighboring states in America.", "ObjectEntities": ["Louisiana", "Alabama"]}
+{"SubjectEntity": "Missouri", "Relation": "StateSharesBorderState", "Prompt": "Missouri and [MASK] are neighboring states in America.", "ObjectEntities": ["Iowa", "Kansas", "Illinois", "Arkansas", "Oklahoma"]}
+{"SubjectEntity": "Nagano Prefecture", "Relation": "StateSharesBorderState", "Prompt": "Nagano Prefecture and [MASK] are neighboring states in Japan.", "ObjectEntities": ["Tokyo", "Okinawa", "Hiroshima", "Kyoto", "Osaka"]}
+{"SubjectEntity": "New Mexico", "Relation": "StateSharesBorderState", "Prompt": "New Mexico and [MASK] are neighboring states in America.", "ObjectEntities": ["Texas", "Arizona", "Colorado", "Oklahoma"]}
+{"SubjectEntity": "Nidwalden", "Relation": "StateSharesBorderState", "Prompt": "Nidwalden and [MASK] are neighboring states in Switzerland.", "ObjectEntities": ["Bern", "Zurich", "Z\u00fcrich"]}
+{"SubjectEntity": "Overijssel", "Relation": "StateSharesBorderState", "Prompt": "Overijssel and [MASK] are neighboring states in Netherlands.", "ObjectEntities": ["Utrecht", "Rotterdam"]}
+{"SubjectEntity": "Rhode Island", "Relation": "StateSharesBorderState", "Prompt": "Rhode Island and [MASK] are neighboring states in America.", "ObjectEntities": ["Massachusetts", "Connecticut", "Maine", "Vermont"]}
+{"SubjectEntity": "Riga", "Relation": "StateSharesBorderState", "Prompt": "Riga and [MASK] are neighboring states in Latvia.", "ObjectEntities": ["Tallinn", "Riga", "Vilnius", "Estonia", "[UNK]"]}
+{"SubjectEntity": "Rivera Department", "Relation": "StateSharesBorderState", "Prompt": "Rivera Department and [MASK] are neighboring states in Colombia.", "ObjectEntities": ["Magdalena", "Department", "C\u00f3rdoba", "Veracruz"]}
+{"SubjectEntity": "Saxony", "Relation": "StateSharesBorderState", "Prompt": "Saxony and [MASK] are neighboring states in Germany.", "ObjectEntities": ["Brandenburg", "Saxony", "Bavaria", "Hesse"]}
+{"SubjectEntity": "Schleswig-Holstein", "Relation": "StateSharesBorderState", "Prompt": "Schleswig-Holstein and [MASK] are neighboring states in Germany.", "ObjectEntities": ["Bremen", "Hamburg", "Saxony", "Hesse", "Holstein", "Schleswig", "Kiel", "Brandenburg", "Denmark"]}
+{"SubjectEntity": "S\u00e3o Paulo", "Relation": "StateSharesBorderState", "Prompt": "S\u00e3o Paulo and [MASK] are neighboring states in Brazil.", "ObjectEntities": ["Paraguay", "Rio", "Santos", "Salvador", "Peru"]}
+{"SubjectEntity": "Thuringia", "Relation": "StateSharesBorderState", "Prompt": "Thuringia and [MASK] are neighboring states in Germany.", "ObjectEntities": ["Saxony", "Hesse", "Bavaria"]}
+{"SubjectEntity": "Treinta y Tres Department", "Relation": "StateSharesBorderState", "Prompt": "Treinta y Tres Department and [MASK] are neighboring states in Venezuela.", "ObjectEntities": ["Miranda", "State", "Lara"]}
+{"SubjectEntity": "Uri", "Relation": "StateSharesBorderState", "Prompt": "Uri and [MASK] are neighboring states in Ethiopia.", "ObjectEntities": ["Somalia", "Somali", "Bari"]}
+{"SubjectEntity": "Utah", "Relation": "StateSharesBorderState", "Prompt": "Utah and [MASK] are neighboring states in America.", "ObjectEntities": ["Idaho", "Wyoming", "Nevada", "Colorado", "Arizona"]}
+{"SubjectEntity": "Utrecht", "Relation": "StateSharesBorderState", "Prompt": "Utrecht and [MASK] are neighboring states in Holland.", "ObjectEntities": ["Rotterdam", "Amsterdam", "Utrecht", "Antwerp"]}
+{"SubjectEntity": "Vermont", "Relation": "StateSharesBorderState", "Prompt": "Vermont and [MASK] are neighboring states in America.", "ObjectEntities": ["Maine", "Massachusetts", "Vermont", "Connecticut"]}
+{"SubjectEntity": "Wisconsin", "Relation": "StateSharesBorderState", "Prompt": "Wisconsin and [MASK] are neighboring states in America.", "ObjectEntities": ["Minnesota", "Michigan", "Iowa", "Illinois"]}
+{"SubjectEntity": "Zeeland", "Relation": "StateSharesBorderState", "Prompt": "Zeeland and [MASK] are neighboring states in Netherlands.", "ObjectEntities": ["Utrecht", "Holland"]}
+{"SubjectEntity": "Aare", "Relation": "RiverBasinsCountry", "Prompt": "Aare river basins in [MASK].", "ObjectEntities": ["Switzerland", "Germany", "Switzerland", "Germany"]}
+{"SubjectEntity": "Amazon", "Relation": "RiverBasinsCountry", "Prompt": "Amazon river basins in [MASK].", "ObjectEntities": ["Brazil", "Peru", "Brazil", "Peru"]}
+{"SubjectEntity": "Aras river", "Relation": "RiverBasinsCountry", "Prompt": "Aras river river basins in [MASK].", "ObjectEntities": ["Russia", "Iran", "Azerbaijan", "Ukraine", "Russia", "Iran", "Azerbaijan", "Ukraine"]}
+{"SubjectEntity": "Arge\u0219 river", "Relation": "RiverBasinsCountry", "Prompt": "Arge\u0219 river river basins in [MASK].", "ObjectEntities": ["Romania", "Romania"]}
+{"SubjectEntity": "Beni river", "Relation": "RiverBasinsCountry", "Prompt": "Beni river river basins in [MASK].", "ObjectEntities": ["Chad", "Morocco", "Ethiopia", "Chad", "Morocco", "Ethiopia"]}
+{"SubjectEntity": "Black Drin", "Relation": "RiverBasinsCountry", "Prompt": "Black Drin river basins in [MASK].", "ObjectEntities": ["Russia", "Tajikistan", "Ukraine", "Uzbekistan", "Russia", "Tajikistan", "Ukraine", "Uzbekistan"]}
+{"SubjectEntity": "Bosna", "Relation": "RiverBasinsCountry", "Prompt": "Bosna river basins in [MASK].", "ObjectEntities": ["Romania", "Serbia", "Croatia", "Romania", "Serbia", "Croatia"]}
+{"SubjectEntity": "Chenab river", "Relation": "RiverBasinsCountry", "Prompt": "Chenab river river basins in [MASK].", "ObjectEntities": ["Iran", "Pakistan", "Afghanistan", "Iran", "Pakistan", "Afghanistan"]}
+{"SubjectEntity": "Daugava", "Relation": "RiverBasinsCountry", "Prompt": "Daugava river basins in [MASK].", "ObjectEntities": ["Latvia", "Latvia"]}
+{"SubjectEntity": "Don", "Relation": "RiverBasinsCountry", "Prompt": "Don river basins in [MASK].", "ObjectEntities": ["Russia", "Ukraine", "Russia", "Ukraine"]}
+{"SubjectEntity": "D\u00e2mbovi\u021ba river", "Relation": "RiverBasinsCountry", "Prompt": "D\u00e2mbovi\u021ba river river basins in [MASK].", "ObjectEntities": ["Romania", "Romania"]}
+{"SubjectEntity": "Ems", "Relation": "RiverBasinsCountry", "Prompt": "Ems river basins in [MASK].", "ObjectEntities": ["Germany", "Belgium", "Europe", "Germany", "Belgium", "Europe"]}
+{"SubjectEntity": "Eurotas", "Relation": "RiverBasinsCountry", "Prompt": "Eurotas river basins in [MASK].", "ObjectEntities": ["Greece", "Greece"]}
+{"SubjectEntity": "Hakari river", "Relation": "RiverBasinsCountry", "Prompt": "Hakari river river basins in [MASK].", "ObjectEntities": ["Japan", "Japan"]}
+{"SubjectEntity": "Irtysh", "Relation": "RiverBasinsCountry", "Prompt": "Irtysh river basins in [MASK].", "ObjectEntities": ["Russia", "Ukraine", "Siberia", "Russia", "Ukraine", "Siberia"]}
+{"SubjectEntity": "Is\u00e8re", "Relation": "RiverBasinsCountry", "Prompt": "Is\u00e8re river basins in [MASK].", "ObjectEntities": ["France", "France"]}
+{"SubjectEntity": "Kara Darya", "Relation": "RiverBasinsCountry", "Prompt": "Kara Darya river basins in [MASK].", "ObjectEntities": ["Russia", "Uzbekistan", "Kazakhstan", "Russia", "Uzbekistan", "Kazakhstan"]}
+{"SubjectEntity": "Kasai river", "Relation": "RiverBasinsCountry", "Prompt": "Kasai river river basins in [MASK].", "ObjectEntities": ["Africa", "Namibia", "Africa", "Namibia"]}
+{"SubjectEntity": "K\u0131z\u0131l\u0131rmak river", "Relation": "RiverBasinsCountry", "Prompt": "K\u0131z\u0131l\u0131rmak river river basins in [MASK].", "ObjectEntities": ["Turkey", "Turkey"]}
+{"SubjectEntity": "Lech", "Relation": "RiverBasinsCountry", "Prompt": "Lech river basins in [MASK].", "ObjectEntities": ["Poland", "Ukraine", "Poland", "Ukraine"]}
+{"SubjectEntity": "Leie", "Relation": "RiverBasinsCountry", "Prompt": "Leie river basins in [MASK].", "ObjectEntities": ["Indonesia", "Namibia", "Indonesia", "Namibia"]}
+{"SubjectEntity": "Lena river", "Relation": "RiverBasinsCountry", "Prompt": "Lena river river basins in [MASK].", "ObjectEntities": ["Russia", "Russia"]}
+{"SubjectEntity": "Limmat", "Relation": "RiverBasinsCountry", "Prompt": "Limmat river basins in [MASK].", "ObjectEntities": ["Switzerland", "Austria", "Europe", "Italy", "Switzerland", "Austria", "Europe", "Italy"]}
+{"SubjectEntity": "Mississippi river", "Relation": "RiverBasinsCountry", "Prompt": "Mississippi river river basins in [MASK].", "ObjectEntities": ["general", "Canada", "general", "Canada"]}
+{"SubjectEntity": "Missouri river", "Relation": "RiverBasinsCountry", "Prompt": "Missouri river river basins in [MASK].", "ObjectEntities": ["Canada", "Missouri", "Canada", "Missouri"]}
+{"SubjectEntity": "Mondego river", "Relation": "RiverBasinsCountry", "Prompt": "Mondego river river basins in [MASK].", "ObjectEntities": ["Brazil", "Colombia", "Venezuela", "Brazil", "Colombia", "Venezuela"]}
+{"SubjectEntity": "Neva", "Relation": "RiverBasinsCountry", "Prompt": "Neva river basins in [MASK].", "ObjectEntities": ["Russia", "Siberia", "Russia", "Siberia"]}
+{"SubjectEntity": "Nev\u0117\u017eis", "Relation": "RiverBasinsCountry", "Prompt": "Nev\u0117\u017eis river basins in [MASK].", "ObjectEntities": ["Lithuania", "Lithuania"]}
+{"SubjectEntity": "Nile", "Relation": "RiverBasinsCountry", "Prompt": "Nile river basins in [MASK].", "ObjectEntities": ["Africa", "Egypt", "Sudan", "Africa", "Egypt", "Sudan"]}
+{"SubjectEntity": "Oka", "Relation": "RiverBasinsCountry", "Prompt": "Oka river basins in [MASK].", "ObjectEntities": ["Russia", "Ukraine", "Russia", "Ukraine"]}
+{"SubjectEntity": "Olt river", "Relation": "RiverBasinsCountry", "Prompt": "Olt river river basins in [MASK].", "ObjectEntities": ["Romania", "Romania"]}
+{"SubjectEntity": "Orinoco river", "Relation": "RiverBasinsCountry", "Prompt": "Orinoco river river basins in [MASK].", "ObjectEntities": ["Venezuela", "Colombia", "Venezuela", "Colombia"]}
+{"SubjectEntity": "Prut", "Relation": "RiverBasinsCountry", "Prompt": "Prut river basins in [MASK].", "ObjectEntities": ["Romania", "Ukraine", "Romania", "Ukraine"]}
+{"SubjectEntity": "Rhine", "Relation": "RiverBasinsCountry", "Prompt": "Rhine river basins in [MASK].", "ObjectEntities": ["Europe", "Germany", "Belgium", "Europe", "Germany", "Belgium"]}
+{"SubjectEntity": "Rioni", "Relation": "RiverBasinsCountry", "Prompt": "Rioni river basins in [MASK].", "ObjectEntities": ["India", "India"]}
+{"SubjectEntity": "River Thames", "Relation": "RiverBasinsCountry", "Prompt": "River Thames river basins in [MASK].", "ObjectEntities": ["England", "Britain", "England", "Britain"]}
+{"SubjectEntity": "Sava", "Relation": "RiverBasinsCountry", "Prompt": "Sava river basins in [MASK].", "ObjectEntities": ["Serbia", "Croatia", "Slovenia", "Serbia", "Croatia", "Slovenia"]}
+{"SubjectEntity": "Segura", "Relation": "RiverBasinsCountry", "Prompt": "Segura river basins in [MASK].", "ObjectEntities": ["Spain", "Spain"]}
+{"SubjectEntity": "Seimare river", "Relation": "RiverBasinsCountry", "Prompt": "Seimare river river basins in [MASK].", "ObjectEntities": ["Brazil", "Romania", "Brazil", "Romania"]}
+{"SubjectEntity": "Spree", "Relation": "RiverBasinsCountry", "Prompt": "Spree river basins in [MASK].", "ObjectEntities": ["Germany", "Europe", "Germany", "Europe"]}
+{"SubjectEntity": "St. Lawrence river", "Relation": "RiverBasinsCountry", "Prompt": "St. Lawrence river river basins in [MASK].", "ObjectEntities": ["Canada", "Canada"]}
+{"SubjectEntity": "Terek", "Relation": "RiverBasinsCountry", "Prompt": "Terek river basins in [MASK].", "ObjectEntities": ["Russia", "Siberia", "Russia", "Siberia"]}
+{"SubjectEntity": "Tocantins river", "Relation": "RiverBasinsCountry", "Prompt": "Tocantins river river basins in [MASK].", "ObjectEntities": ["Brazil", "Brazil"]}
+{"SubjectEntity": "Tone river", "Relation": "RiverBasinsCountry", "Prompt": "Tone river river basins in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Volga", "Relation": "RiverBasinsCountry", "Prompt": "Volga river basins in [MASK].", "ObjectEntities": ["Russia", "Russia"]}
+{"SubjectEntity": "Volta river", "Relation": "RiverBasinsCountry", "Prompt": "Volta river river basins in [MASK].", "ObjectEntities": ["Ghana", "Africa", "Cameroon", "Chad", "Ghana", "Africa", "Cameroon", "Chad"]}
+{"SubjectEntity": "Yenisey", "Relation": "RiverBasinsCountry", "Prompt": "Yenisey river basins in [MASK].", "ObjectEntities": ["Russia", "Ukraine", "Siberia", "Russia", "Ukraine", "Siberia"]}
+{"SubjectEntity": "Zayandeh river", "Relation": "RiverBasinsCountry", "Prompt": "Zayandeh river river basins in [MASK].", "ObjectEntities": ["Iran", "Iran"]}
+{"SubjectEntity": "Zeya river", "Relation": "RiverBasinsCountry", "Prompt": "Zeya river river basins in [MASK].", "ObjectEntities": ["Iran", "Iran"]}
+{"SubjectEntity": "\u00d6lfus\u00e1", "Relation": "RiverBasinsCountry", "Prompt": "\u00d6lfus\u00e1 river basins in [MASK].", "ObjectEntities": ["Iceland", "Hungary", "Iceland", "Hungary"]}
+{"SubjectEntity": "Amitabh Bachchan", "Relation": "PersonLanguage", "Prompt": "Amitabh Bachchan speaks in [MASK], which is a language.", "ObjectEntities": ["Hindi", "Hindi"]}
+{"SubjectEntity": "Ana Ivanovic", "Relation": "PersonLanguage", "Prompt": "Ana Ivanovic speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Andrew Cuomo", "Relation": "PersonLanguage", "Prompt": "Andrew Cuomo speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Bill Gates", "Relation": "PersonLanguage", "Prompt": "Bill Gates speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Carles Puyol", "Relation": "PersonLanguage", "Prompt": "Carles Puyol speaks in [MASK], which is a language.", "ObjectEntities": ["Spanish", "Spanish"]}
+{"SubjectEntity": "Carly Rae Jepsen", "Relation": "PersonLanguage", "Prompt": "Carly Rae Jepsen speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Cesc F\u00e0bregas", "Relation": "PersonLanguage", "Prompt": "Cesc F\u00e0bregas speaks in [MASK], which is a language.", "ObjectEntities": ["Catalan", "Catalan"]}
+{"SubjectEntity": "Chris Hemsworth", "Relation": "PersonLanguage", "Prompt": "Chris Hemsworth speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Coco Austin", "Relation": "PersonLanguage", "Prompt": "Coco Austin speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Cristiano Ronaldo", "Relation": "PersonLanguage", "Prompt": "Cristiano Ronaldo speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "David Guetta", "Relation": "PersonLanguage", "Prompt": "David Guetta speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "David Villa", "Relation": "PersonLanguage", "Prompt": "David Villa speaks in [MASK], which is a language.", "ObjectEntities": ["Spanish", "Spanish"]}
+{"SubjectEntity": "Demi Lovato", "Relation": "PersonLanguage", "Prompt": "Demi Lovato speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Dr. Dre", "Relation": "PersonLanguage", "Prompt": "Dr. Dre speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Dwayne Johnson", "Relation": "PersonLanguage", "Prompt": "Dwayne Johnson speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Ellie Goulding", "Relation": "PersonLanguage", "Prompt": "Ellie Goulding speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Elon Musk", "Relation": "PersonLanguage", "Prompt": "Elon Musk speaks in [MASK], which is a language.", "ObjectEntities": ["Russian", "Russian"]}
+{"SubjectEntity": "Franz Beckenbauer", "Relation": "PersonLanguage", "Prompt": "Franz Beckenbauer speaks in [MASK], which is a language.", "ObjectEntities": ["German", "German"]}
+{"SubjectEntity": "Harbhajan Singh", "Relation": "PersonLanguage", "Prompt": "Harbhajan Singh speaks in [MASK], which is a language.", "ObjectEntities": ["Punjabi", "Punjabi"]}
+{"SubjectEntity": "Imran Khan", "Relation": "PersonLanguage", "Prompt": "Imran Khan speaks in [MASK], which is a language.", "ObjectEntities": ["Urdu", "Urdu"]}
+{"SubjectEntity": "J. K. Rowling", "Relation": "PersonLanguage", "Prompt": "J. K. Rowling speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Jennifer Lopez", "Relation": "PersonLanguage", "Prompt": "Jennifer Lopez speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Jenson Button", "Relation": "PersonLanguage", "Prompt": "Jenson Button speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "John Cleese", "Relation": "PersonLanguage", "Prompt": "John Cleese speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "John Legend", "Relation": "PersonLanguage", "Prompt": "John Legend speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "John McCain", "Relation": "PersonLanguage", "Prompt": "John McCain speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Justin Bieber", "Relation": "PersonLanguage", "Prompt": "Justin Bieber speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Justin Timberlake", "Relation": "PersonLanguage", "Prompt": "Justin Timberlake speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "LeBron James", "Relation": "PersonLanguage", "Prompt": "LeBron James speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Lindsey Vonn", "Relation": "PersonLanguage", "Prompt": "Lindsey Vonn speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Malala Yousafzai", "Relation": "PersonLanguage", "Prompt": "Malala Yousafzai speaks in [MASK], which is a language.", "ObjectEntities": ["Urdu", "Urdu"]}
+{"SubjectEntity": "Manuel Valls", "Relation": "PersonLanguage", "Prompt": "Manuel Valls speaks in [MASK], which is a language.", "ObjectEntities": ["Spanish", "Spanish"]}
+{"SubjectEntity": "Mesut \u00d6zil", "Relation": "PersonLanguage", "Prompt": "Mesut \u00d6zil speaks in [MASK], which is a language.", "ObjectEntities": ["Turkish", "Turkish"]}
+{"SubjectEntity": "Michael Bloomberg", "Relation": "PersonLanguage", "Prompt": "Michael Bloomberg speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Michael Jackson", "Relation": "PersonLanguage", "Prompt": "Michael Jackson speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Miley Cyrus", "Relation": "PersonLanguage", "Prompt": "Miley Cyrus speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Oprah Winfrey", "Relation": "PersonLanguage", "Prompt": "Oprah Winfrey speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Psy", "Relation": "PersonLanguage", "Prompt": "Psy speaks in [MASK], which is a language.", "ObjectEntities": []}
+{"SubjectEntity": "Rachel Maddow", "Relation": "PersonLanguage", "Prompt": "Rachel Maddow speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Rajinikanth", "Relation": "PersonLanguage", "Prompt": "Rajinikanth speaks in [MASK], which is a language.", "ObjectEntities": ["Tamil", "Tamil"]}
+{"SubjectEntity": "Recep Tayyip Erdo\u011fan", "Relation": "PersonLanguage", "Prompt": "Recep Tayyip Erdo\u011fan speaks in [MASK], which is a language.", "ObjectEntities": ["Turkish", "Turkish"]}
+{"SubjectEntity": "Ricky Martin", "Relation": "PersonLanguage", "Prompt": "Ricky Martin speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Rob Kardashian", "Relation": "PersonLanguage", "Prompt": "Rob Kardashian speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Roger Federer", "Relation": "PersonLanguage", "Prompt": "Roger Federer speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Sasha Grey", "Relation": "PersonLanguage", "Prompt": "Sasha Grey speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Serena Williams", "Relation": "PersonLanguage", "Prompt": "Serena Williams speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "Usain Bolt", "Relation": "PersonLanguage", "Prompt": "Usain Bolt speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "V. V. S. Laxman", "Relation": "PersonLanguage", "Prompt": "V. V. S. Laxman speaks in [MASK], which is a language.", "ObjectEntities": ["Kannada", "Kannada"]}
+{"SubjectEntity": "Victoria Beckham", "Relation": "PersonLanguage", "Prompt": "Victoria Beckham speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "tanayo", "Relation": "PersonLanguage", "Prompt": "tanayo speaks in [MASK], which is a language.", "ObjectEntities": ["English", "English"]}
+{"SubjectEntity": "A. R. Rahman", "Relation": "PersonProfession", "Prompt": "A. R. Rahman is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "actor", "Engineer", "artist", "actor", "Engineer"]}
+{"SubjectEntity": "Adele", "Relation": "PersonProfession", "Prompt": "Adele is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "occupation", "academic", "artist", "occupation", "academic"]}
+{"SubjectEntity": "Asha Bhosle", "Relation": "PersonProfession", "Prompt": "Asha Bhosle is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "actress", "actor", "Artist", "Engineer", "artist", "actress", "actor", "Artist", "Engineer"]}
+{"SubjectEntity": "Ashton Kutcher", "Relation": "PersonProfession", "Prompt": "Ashton Kutcher is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actor", "artist", "actress", "actor", "artist", "actress"]}
+{"SubjectEntity": "Avril Lavigne", "Relation": "PersonProfession", "Prompt": "Avril Lavigne is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "actress", "actor", "artist", "actress", "actor"]}
+{"SubjectEntity": "Barack Obama", "Relation": "PersonProfession", "Prompt": "Barack Obama is (a or an) [MASK], which is a profession.", "ObjectEntities": ["attorney", "economist", "actor", "artist", "attorney", "economist", "actor", "artist"]}
+{"SubjectEntity": "Bill Gates", "Relation": "PersonProfession", "Prompt": "Bill Gates is (a or an) [MASK], which is a profession.", "ObjectEntities": ["entrepreneur", "inventor", "attorney", "entrepreneur", "inventor", "attorney"]}
+{"SubjectEntity": "Britney Spears", "Relation": "PersonProfession", "Prompt": "Britney Spears is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actress", "artist", "actor", "actress", "artist", "actor"]}
+{"SubjectEntity": "Carles Puyol", "Relation": "PersonProfession", "Prompt": "Carles Puyol is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "actor", "economist", "artist", "actor", "economist"]}
+{"SubjectEntity": "Carly Rae Jepsen", "Relation": "PersonProfession", "Prompt": "Carly Rae Jepsen is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actress", "artist", "attorney", "actor", "actress", "artist", "attorney", "actor"]}
+{"SubjectEntity": "CeeLo Green", "Relation": "PersonProfession", "Prompt": "CeeLo Green is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "actor", "actress", "attorney", "entrepreneur", "artist", "actor", "actress", "attorney", "entrepreneur"]}
+{"SubjectEntity": "Cher", "Relation": "PersonProfession", "Prompt": "Cher is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "occupation", "art", "industry", "artist", "occupation", "art", "industry"]}
+{"SubjectEntity": "Chlo\u00eb Grace Moretz", "Relation": "PersonProfession", "Prompt": "Chlo\u00eb Grace Moretz is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "actress", "attorney", "actor", "artist", "actress", "attorney", "actor"]}
+{"SubjectEntity": "Chris Rock", "Relation": "PersonProfession", "Prompt": "Chris Rock is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "actor", "entrepreneur", "artist", "actor", "entrepreneur"]}
+{"SubjectEntity": "Claire Holt", "Relation": "PersonProfession", "Prompt": "Claire Holt is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "actress", "attorney", "artist", "actress", "attorney"]}
+{"SubjectEntity": "Cristiano Ronaldo", "Relation": "PersonProfession", "Prompt": "Cristiano Ronaldo is (a or an) [MASK], which is a profession.", "ObjectEntities": ["athlete", "actor", "artist", "athlete", "actor", "artist"]}
+{"SubjectEntity": "David Cameron", "Relation": "PersonProfession", "Prompt": "David Cameron is (a or an) [MASK], which is a profession.", "ObjectEntities": ["economist", "entrepreneur", "attorney", "economist", "entrepreneur", "attorney"]}
+{"SubjectEntity": "Demi Moore", "Relation": "PersonProfession", "Prompt": "Demi Moore is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actress", "artist", "actor", "attorney", "actress", "artist", "actor", "attorney"]}
+{"SubjectEntity": "Dr. Dre", "Relation": "PersonProfession", "Prompt": "Dr. Dre is (a or an) [MASK], which is a profession.", "ObjectEntities": ["academic", "MD", "institution", "Engineer", "academic", "MD", "institution", "Engineer"]}
+{"SubjectEntity": "Ellie Goulding", "Relation": "PersonProfession", "Prompt": "Ellie Goulding is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actress", "artist", "actor", "Actress", "actress", "artist", "actor", "Actress"]}
+{"SubjectEntity": "Elton John", "Relation": "PersonProfession", "Prompt": "Elton John is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actor", "artist", "entrepreneur", "actor", "artist", "entrepreneur"]}
+{"SubjectEntity": "Hugh Jackman", "Relation": "PersonProfession", "Prompt": "Hugh Jackman is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actor", "artist", "actor", "artist"]}
+{"SubjectEntity": "Iker Casillas", "Relation": "PersonProfession", "Prompt": "Iker Casillas is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actor", "artist", "attorney", "actor", "artist", "attorney"]}
+{"SubjectEntity": "Jennette McCurdy", "Relation": "PersonProfession", "Prompt": "Jennette McCurdy is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "attorney", "actress", "artist", "attorney", "actress"]}
+{"SubjectEntity": "Jessie J", "Relation": "PersonProfession", "Prompt": "Jessie J is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "actress", "attorney", "artist", "actress", "attorney"]}
+{"SubjectEntity": "Joe Biden", "Relation": "PersonProfession", "Prompt": "Joe Biden is (a or an) [MASK], which is a profession.", "ObjectEntities": ["attorney", "economist", "actor", "attorney", "economist", "actor"]}
+{"SubjectEntity": "John Cleese", "Relation": "PersonProfession", "Prompt": "John Cleese is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actor", "artist", "Author", "editor", "actor", "artist", "Author", "editor"]}
+{"SubjectEntity": "Justin Timberlake", "Relation": "PersonProfession", "Prompt": "Justin Timberlake is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actor", "artist", "entrepreneur", "actor", "artist", "entrepreneur"]}
+{"SubjectEntity": "Katy Perry", "Relation": "PersonProfession", "Prompt": "Katy Perry is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actress", "artist", "actor", "actress", "artist", "actor"]}
+{"SubjectEntity": "Kylie Minogue", "Relation": "PersonProfession", "Prompt": "Kylie Minogue is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actress", "artist", "actor", "accountant", "actress", "artist", "actor", "accountant"]}
+{"SubjectEntity": "Lance Armstrong", "Relation": "PersonProfession", "Prompt": "Lance Armstrong is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "actor", "athlete", "Engineer", "artist", "actor", "athlete", "Engineer"]}
+{"SubjectEntity": "Leonardo DiCaprio", "Relation": "PersonProfession", "Prompt": "Leonardo DiCaprio is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actor", "artist", "Actor", "attorney", "actress", "actor", "artist", "Actor", "attorney", "actress"]}
+{"SubjectEntity": "Maria Sharapova", "Relation": "PersonProfession", "Prompt": "Maria Sharapova is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actress", "artist", "economist", "actress", "artist", "economist"]}
+{"SubjectEntity": "Mitt Romney", "Relation": "PersonProfession", "Prompt": "Mitt Romney is (a or an) [MASK], which is a profession.", "ObjectEntities": ["occupation", "industry", "office", "art", "academic", "occupation", "industry", "office", "art", "academic"]}
+{"SubjectEntity": "Nelson Mandela", "Relation": "PersonProfession", "Prompt": "Nelson Mandela is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "entrepreneur", "economist", "artist", "entrepreneur", "economist"]}
+{"SubjectEntity": "Oprah Winfrey", "Relation": "PersonProfession", "Prompt": "Oprah Winfrey is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actress", "editor", "attorney", "artist", "actress", "editor", "attorney", "artist"]}
+{"SubjectEntity": "Paris Hilton", "Relation": "PersonProfession", "Prompt": "Paris Hilton is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actor", "actress", "entrepreneur", "artist", "actor", "actress", "entrepreneur", "artist"]}
+{"SubjectEntity": "Pink", "Relation": "PersonProfession", "Prompt": "Pink is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "art", "occupation", "industry", "artist", "art", "occupation", "industry"]}
+{"SubjectEntity": "Priyanka Chopra", "Relation": "PersonProfession", "Prompt": "Priyanka Chopra is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actress", "Actress", "artist", "actor", "actress", "Actress", "artist", "actor"]}
+{"SubjectEntity": "Richard Dawkins", "Relation": "PersonProfession", "Prompt": "Richard Dawkins is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "academic", "Author", "artist", "academic", "Author"]}
+{"SubjectEntity": "Samir Nasri", "Relation": "PersonProfession", "Prompt": "Samir Nasri is (a or an) [MASK], which is a profession.", "ObjectEntities": ["Engineer", "economist", "accountant", "Engineer", "economist", "accountant"]}
+{"SubjectEntity": "Sean Combs", "Relation": "PersonProfession", "Prompt": "Sean Combs is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actor", "artist", "attorney", "actor", "artist", "attorney"]}
+{"SubjectEntity": "Seth MacFarlane", "Relation": "PersonProfession", "Prompt": "Seth MacFarlane is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actor", "artist", "actor", "artist"]}
+{"SubjectEntity": "Seth Meyers", "Relation": "PersonProfession", "Prompt": "Seth Meyers is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "actor", "attorney", "artist", "actor", "attorney"]}
+{"SubjectEntity": "Shah Rukh Khan", "Relation": "PersonProfession", "Prompt": "Shah Rukh Khan is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actor", "artist", "Engineer", "actor", "artist", "Engineer"]}
+{"SubjectEntity": "Shaquille O'Neal", "Relation": "PersonProfession", "Prompt": "Shaquille O'Neal is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actor", "artist", "attorney", "actress", "actor", "artist", "attorney", "actress"]}
+{"SubjectEntity": "Tom Hanks", "Relation": "PersonProfession", "Prompt": "Tom Hanks is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actor", "artist", "attorney", "actor", "artist", "attorney"]}
+{"SubjectEntity": "Troian Bellisario", "Relation": "PersonProfession", "Prompt": "Troian Bellisario is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "actor", "attorney", "artist", "actor", "attorney"]}
+{"SubjectEntity": "William Shatner", "Relation": "PersonProfession", "Prompt": "William Shatner is (a or an) [MASK], which is a profession.", "ObjectEntities": ["actor", "artist", "attorney", "editor", "actor", "artist", "attorney", "editor"]}
+{"SubjectEntity": "Wiz Khalifa", "Relation": "PersonProfession", "Prompt": "Wiz Khalifa is (a or an) [MASK], which is a profession.", "ObjectEntities": ["artist", "actor", "entrepreneur", "MC", "artist", "actor", "entrepreneur", "MC"]}
+{"SubjectEntity": "Atsuko Maeda", "Relation": "PersonInstrument", "Prompt": "Atsuko Maeda loves playing [MASK], which is a instrument.", "ObjectEntities": ["piano", "guitar", "piano", "guitar"]}
+{"SubjectEntity": "Aviv Geffen", "Relation": "PersonInstrument", "Prompt": "Aviv Geffen loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Bae Suzy", "Relation": "PersonInstrument", "Prompt": "Bae Suzy loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Billy Joel", "Relation": "PersonInstrument", "Prompt": "Billy Joel loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Brian Littrell", "Relation": "PersonInstrument", "Prompt": "Brian Littrell loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "CL", "Relation": "PersonInstrument", "Prompt": "CL loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Chad Smith", "Relation": "PersonInstrument", "Prompt": "Chad Smith loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Choi Jong-hoon", "Relation": "PersonInstrument", "Prompt": "Choi Jong-hoon loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Dave Farrell", "Relation": "PersonInstrument", "Prompt": "Dave Farrell loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Eunhyuk", "Relation": "PersonInstrument", "Prompt": "Eunhyuk loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Frank Iero", "Relation": "PersonInstrument", "Prompt": "Frank Iero loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "G-Dragon", "Relation": "PersonInstrument", "Prompt": "G-Dragon loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "G.NA", "Relation": "PersonInstrument", "Prompt": "G.NA loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "George Harrison", "Relation": "PersonInstrument", "Prompt": "George Harrison loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Geri Halliwell", "Relation": "PersonInstrument", "Prompt": "Geri Halliwell loves playing [MASK], which is a instrument.", "ObjectEntities": ["piano", "guitar", "piano", "guitar"]}
+{"SubjectEntity": "Goo Hara", "Relation": "PersonInstrument", "Prompt": "Goo Hara loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "guitar"]}
+{"SubjectEntity": "Gustavo Cerati", "Relation": "PersonInstrument", "Prompt": "Gustavo Cerati loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Hahm Eun-jung", "Relation": "PersonInstrument", "Prompt": "Hahm Eun-jung loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Howard Donald", "Relation": "PersonInstrument", "Prompt": "Howard Donald loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Hyuna", "Relation": "PersonInstrument", "Prompt": "Hyuna loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Jang Wooyoung", "Relation": "PersonInstrument", "Prompt": "Jang Wooyoung loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Jimmy Page", "Relation": "PersonInstrument", "Prompt": "Jimmy Page loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Julian Casablancas", "Relation": "PersonInstrument", "Prompt": "Julian Casablancas loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Kim Hyo-yeon", "Relation": "PersonInstrument", "Prompt": "Kim Hyo-yeon loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Kim Jae-joong", "Relation": "PersonInstrument", "Prompt": "Kim Jae-joong loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Kim Jong-hyun", "Relation": "PersonInstrument", "Prompt": "Kim Jong-hyun loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Lee Jong-hyun", "Relation": "PersonInstrument", "Prompt": "Lee Jong-hyun loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Lee Jun-ho", "Relation": "PersonInstrument", "Prompt": "Lee Jun-ho loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Mayu Watanabe", "Relation": "PersonInstrument", "Prompt": "Mayu Watanabe loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Melanie Brown", "Relation": "PersonInstrument", "Prompt": "Melanie Brown loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Mike Shinoda", "Relation": "PersonInstrument", "Prompt": "Mike Shinoda loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "guitar"]}
+{"SubjectEntity": "Nadya Tolokonnikova", "Relation": "PersonInstrument", "Prompt": "Nadya Tolokonnikova loves playing [MASK], which is a instrument.", "ObjectEntities": ["piano", "guitar", "violin", "piano", "guitar", "violin"]}
+{"SubjectEntity": "Nick Carter", "Relation": "PersonInstrument", "Prompt": "Nick Carter loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Nikki Sixx", "Relation": "PersonInstrument", "Prompt": "Nikki Sixx loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Park Cho-rong", "Relation": "PersonInstrument", "Prompt": "Park Cho-rong loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Park Ji-yeon", "Relation": "PersonInstrument", "Prompt": "Park Ji-yeon loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Peter Hook", "Relation": "PersonInstrument", "Prompt": "Peter Hook loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "guitar"]}
+{"SubjectEntity": "Rino Sashihara", "Relation": "PersonInstrument", "Prompt": "Rino Sashihara loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Rivers Cuomo", "Relation": "PersonInstrument", "Prompt": "Rivers Cuomo loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Robbie Williams", "Relation": "PersonInstrument", "Prompt": "Robbie Williams loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Roger Waters", "Relation": "PersonInstrument", "Prompt": "Roger Waters loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Ryo Nishikido", "Relation": "PersonInstrument", "Prompt": "Ryo Nishikido loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Seo Joo-hyun", "Relation": "PersonInstrument", "Prompt": "Seo Joo-hyun loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Snoop Dogg", "Relation": "PersonInstrument", "Prompt": "Snoop Dogg loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "guitar"]}
+{"SubjectEntity": "Steven Van Zandt", "Relation": "PersonInstrument", "Prompt": "Steven Van Zandt loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Stevie Nicks", "Relation": "PersonInstrument", "Prompt": "Stevie Nicks loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Tiffany Young", "Relation": "PersonInstrument", "Prompt": "Tiffany Young loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Tionne Watkins", "Relation": "PersonInstrument", "Prompt": "Tionne Watkins loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Tommy Lee", "Relation": "PersonInstrument", "Prompt": "Tommy Lee loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Tomomi Itano", "Relation": "PersonInstrument", "Prompt": "Tomomi Itano loves playing [MASK], which is a instrument.", "ObjectEntities": ["guitar", "piano", "guitar", "piano"]}
+{"SubjectEntity": "Alexander Lebedev", "Relation": "PersonEmployer", "Prompt": "Alexander Lebedev joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Anatoly Chubais", "Relation": "PersonEmployer", "Prompt": "Anatoly Chubais joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Angela Ahrendts", "Relation": "PersonEmployer", "Prompt": "Angela Ahrendts joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Bobak Ferdowsi", "Relation": "PersonEmployer", "Prompt": "Bobak Ferdowsi joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Buzz Aldrin", "Relation": "PersonEmployer", "Prompt": "Buzz Aldrin joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Caterina Fake", "Relation": "PersonEmployer", "Prompt": "Caterina Fake joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Cory Barlog", "Relation": "PersonEmployer", "Prompt": "Cory Barlog joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Donald Trump Jr.", "Relation": "PersonEmployer", "Prompt": "Donald Trump Jr. joined and work at [MASK] as an employer, which is a company", "ObjectEntities": ["Trump", "Trump"]}
+{"SubjectEntity": "Eddy Cue", "Relation": "PersonEmployer", "Prompt": "Eddy Cue joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Elon Musk", "Relation": "PersonEmployer", "Prompt": "Elon Musk joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Eric Cantor", "Relation": "PersonEmployer", "Prompt": "Eric Cantor joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Eric Schmidt", "Relation": "PersonEmployer", "Prompt": "Eric Schmidt joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Eric Trump", "Relation": "PersonEmployer", "Prompt": "Eric Trump joined and work at [MASK] as an employer, which is a company", "ObjectEntities": ["Trump", "Trump"]}
+{"SubjectEntity": "Guy Kawasaki", "Relation": "PersonEmployer", "Prompt": "Guy Kawasaki joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Herbert Fisk Johnson III", "Relation": "PersonEmployer", "Prompt": "Herbert Fisk Johnson III joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Herman Cain", "Relation": "PersonEmployer", "Prompt": "Herman Cain joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Hikakin", "Relation": "PersonEmployer", "Prompt": "Hikakin joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Howard Stern", "Relation": "PersonEmployer", "Prompt": "Howard Stern joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Ian Bremmer", "Relation": "PersonEmployer", "Prompt": "Ian Bremmer joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Indra Nooyi", "Relation": "PersonEmployer", "Prompt": "Indra Nooyi joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Jack Welch", "Relation": "PersonEmployer", "Prompt": "Jack Welch joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Jens Bergensten", "Relation": "PersonEmployer", "Prompt": "Jens Bergensten joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Joan Laporta", "Relation": "PersonEmployer", "Prompt": "Joan Laporta joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "John Resig", "Relation": "PersonEmployer", "Prompt": "John Resig joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Joi Ito", "Relation": "PersonEmployer", "Prompt": "Joi Ito joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Josep Borrell", "Relation": "PersonEmployer", "Prompt": "Josep Borrell joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Kailash Satyarthi", "Relation": "PersonEmployer", "Prompt": "Kailash Satyarthi joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Kazuyo Katsuma", "Relation": "PersonEmployer", "Prompt": "Kazuyo Katsuma joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Kiran Mazumdar-Shaw", "Relation": "PersonEmployer", "Prompt": "Kiran Mazumdar-Shaw joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Larry Brilliant", "Relation": "PersonEmployer", "Prompt": "Larry Brilliant joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Madonna", "Relation": "PersonEmployer", "Prompt": "Madonna joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Marc Andreessen", "Relation": "PersonEmployer", "Prompt": "Marc Andreessen joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Margaret Atwood", "Relation": "PersonEmployer", "Prompt": "Margaret Atwood joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Marissa Mayer", "Relation": "PersonEmployer", "Prompt": "Marissa Mayer joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Mark Zuckerberg", "Relation": "PersonEmployer", "Prompt": "Mark Zuckerberg joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Martha Stewart", "Relation": "PersonEmployer", "Prompt": "Martha Stewart joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Max Levchin", "Relation": "PersonEmployer", "Prompt": "Max Levchin joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Meg Whitman", "Relation": "PersonEmployer", "Prompt": "Meg Whitman joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Michael Morhaime", "Relation": "PersonEmployer", "Prompt": "Michael Morhaime joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Omarosa Manigault Newman", "Relation": "PersonEmployer", "Prompt": "Omarosa Manigault Newman joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Pavel Durov", "Relation": "PersonEmployer", "Prompt": "Pavel Durov joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Peter Schiff", "Relation": "PersonEmployer", "Prompt": "Peter Schiff joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Rahm Emanuel", "Relation": "PersonEmployer", "Prompt": "Rahm Emanuel joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Robert L. Behnken", "Relation": "PersonEmployer", "Prompt": "Robert L. Behnken joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Scott Kelly", "Relation": "PersonEmployer", "Prompt": "Scott Kelly joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Stephanie McMahon", "Relation": "PersonEmployer", "Prompt": "Stephanie McMahon joined and work at [MASK] as an employer, which is a company", "ObjectEntities": ["WWE", "WWE"]}
+{"SubjectEntity": "Suze Orman", "Relation": "PersonEmployer", "Prompt": "Suze Orman joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Thomas Pesquet", "Relation": "PersonEmployer", "Prompt": "Thomas Pesquet joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Tim Berners-Lee", "Relation": "PersonEmployer", "Prompt": "Tim Berners-Lee joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Tyler, the Creator", "Relation": "PersonEmployer", "Prompt": "Tyler, the Creator joined and work at [MASK] as an employer, which is a company", "ObjectEntities": []}
+{"SubjectEntity": "Bernie Sanders", "Relation": "PersonPlaceOfDeath", "Prompt": "Bernie Sanders died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Beyonc\u00e9", "Relation": "PersonPlaceOfDeath", "Prompt": "Beyonc\u00e9 died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Bill Clinton", "Relation": "PersonPlaceOfDeath", "Prompt": "Bill Clinton died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Cristiano Ronaldo", "Relation": "PersonPlaceOfDeath", "Prompt": "Cristiano Ronaldo died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Drake", "Relation": "PersonPlaceOfDeath", "Prompt": "Drake died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Dwayne Johnson", "Relation": "PersonPlaceOfDeath", "Prompt": "Dwayne Johnson died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Enrique Pe\u00f1a Nieto", "Relation": "PersonPlaceOfDeath", "Prompt": "Enrique Pe\u00f1a Nieto died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Erick Morillo", "Relation": "PersonPlaceOfDeath", "Prompt": "Erick Morillo died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Gustavo Cerati", "Relation": "PersonPlaceOfDeath", "Prompt": "Gustavo Cerati died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Hank Aaron", "Relation": "PersonPlaceOfDeath", "Prompt": "Hank Aaron died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Jules Bianchi", "Relation": "PersonPlaceOfDeath", "Prompt": "Jules Bianchi died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Justin Bieber", "Relation": "PersonPlaceOfDeath", "Prompt": "Justin Bieber died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Justin Timberlake", "Relation": "PersonPlaceOfDeath", "Prompt": "Justin Timberlake died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Justin Trudeau", "Relation": "PersonPlaceOfDeath", "Prompt": "Justin Trudeau died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Katy Perry", "Relation": "PersonPlaceOfDeath", "Prompt": "Katy Perry died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Kobe Bryant", "Relation": "PersonPlaceOfDeath", "Prompt": "Kobe Bryant died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Kylian Mbapp\u00e9", "Relation": "PersonPlaceOfDeath", "Prompt": "Kylian Mbapp\u00e9 died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "LeBron James", "Relation": "PersonPlaceOfDeath", "Prompt": "LeBron James died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Leonardo DiCaprio", "Relation": "PersonPlaceOfDeath", "Prompt": "Leonardo DiCaprio died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Lina Ben Mhenni", "Relation": "PersonPlaceOfDeath", "Prompt": "Lina Ben Mhenni died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Lionel Messi", "Relation": "PersonPlaceOfDeath", "Prompt": "Lionel Messi died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Louise hay", "Relation": "PersonPlaceOfDeath", "Prompt": "Louise hay died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Madonna", "Relation": "PersonPlaceOfDeath", "Prompt": "Madonna died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Manohar Parrikar", "Relation": "PersonPlaceOfDeath", "Prompt": "Manohar Parrikar died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Muhammad Ali", "Relation": "PersonPlaceOfDeath", "Prompt": "Muhammad Ali died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Oprah Winfrey", "Relation": "PersonPlaceOfDeath", "Prompt": "Oprah Winfrey died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Pope Francis", "Relation": "PersonPlaceOfDeath", "Prompt": "Pope Francis died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Sayaka Kanda", "Relation": "PersonPlaceOfDeath", "Prompt": "Sayaka Kanda died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Thomas Oppermann", "Relation": "PersonPlaceOfDeath", "Prompt": "Thomas Oppermann died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Volodymyr Zelenskyy", "Relation": "PersonPlaceOfDeath", "Prompt": "Volodymyr Zelenskyy died at home or hospital in [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Alan Guth", "Relation": "PersonPlaceOfDeath", "Prompt": "Alan Guth has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Amitabh Bachchan", "Relation": "PersonPlaceOfDeath", "Prompt": "Amitabh Bachchan has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Bruce Lee", "Relation": "PersonPlaceOfDeath", "Prompt": "Bruce Lee has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Charles Robinson", "Relation": "PersonPlaceOfDeath", "Prompt": "Charles Robinson has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Christina Grimmie", "Relation": "PersonPlaceOfDeath", "Prompt": "Christina Grimmie has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "David Bowie", "Relation": "PersonPlaceOfDeath", "Prompt": "David Bowie has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Elizabeth Taylor", "Relation": "PersonPlaceOfDeath", "Prompt": "Elizabeth Taylor has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Hans Rosling", "Relation": "PersonPlaceOfDeath", "Prompt": "Hans Rosling has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Harry Reid", "Relation": "PersonPlaceOfDeath", "Prompt": "Harry Reid has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Jimi Hendrix", "Relation": "PersonPlaceOfDeath", "Prompt": "Jimi Hendrix has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Kim Jong-un", "Relation": "PersonPlaceOfDeath", "Prompt": "Kim Jong-un has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Madeleine Albright", "Relation": "PersonPlaceOfDeath", "Prompt": "Madeleine Albright has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Mark Zuckerberg", "Relation": "PersonPlaceOfDeath", "Prompt": "Mark Zuckerberg has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Merle Haggard", "Relation": "PersonPlaceOfDeath", "Prompt": "Merle Haggard has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Michael K. Williams", "Relation": "PersonPlaceOfDeath", "Prompt": "Michael K. Williams has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Nelson Mandela", "Relation": "PersonPlaceOfDeath", "Prompt": "Nelson Mandela has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Noam Chomsky", "Relation": "PersonPlaceOfDeath", "Prompt": "Noam Chomsky has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Philipp Mi\u00dffelder", "Relation": "PersonPlaceOfDeath", "Prompt": "Philipp Mi\u00dffelder has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Raffaella Carr\u00e0", "Relation": "PersonPlaceOfDeath", "Prompt": "Raffaella Carr\u00e0 has already [MASK].", "ObjectEntities": []}
+{"SubjectEntity": "Vladimir Putin", "Relation": "PersonPlaceOfDeath", "Prompt": "Vladimir Putin has already [MASK].", "ObjectEntities": []}
